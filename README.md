@@ -1,5 +1,4 @@
 # House Price Prediction AI/ML Project
-# https://github.com/nirdesh17/House-Price-Prediction
 
 This project involves building a machine learning model to predict house prices based on various features. The dataset used for this project is from the Kaggle competition "House Prices - Advanced Regression Techniques". The goal is to develop a model that accurately predicts house prices given a set of input features.
 
@@ -45,7 +44,3 @@ This project involves building a machine learning model to predict house prices 
 - The `submission.csv` file contains the predicted house prices for the test dataset.
 - The trained model (`gbr.pkl`) is stored as a pickle file for future use or deployment.
 
-For any further inquiries or improvements, feel free to reach out.
-
-### Connect me:
-[Linkedin](https://www.linkedin.com/in/nirdesh-devadiya-55b408209)
